@@ -1,4 +1,7 @@
-﻿string s1 = Console.ReadLine()!;
+﻿// Программа проверяет,является ли первое введенное число квадратом второго введенного числа,
+// после проверки дает развернутый ответ.
+
+string s1 = Console.ReadLine()!;
 int num1 = int.Parse(s1);
 string s2 = Console.ReadLine()!;
 int num2 = int.Parse(s2);
