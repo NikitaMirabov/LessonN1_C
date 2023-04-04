@@ -11,7 +11,6 @@ int LengthNum(int num)
     return a;
 }
 
-
 Console.WriteLine("Введите число: ");
 int num = int.Parse(Console.ReadLine()!);
 int result = LengthNum(num);
